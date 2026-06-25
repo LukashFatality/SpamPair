@@ -1,9 +1,9 @@
 # SpamPair
 
 ## Image Installing
+![Foto](https://files.catbox.moe/k71joz.jpg)
 
-
-# Usage
+## Usage
 ```
 git clone https://github.com/LukashFatality/SpamPair.git
 pkg update && pkg upgrade -y
