@@ -11,3 +11,6 @@ pkg install python -y
 pkg install python-pip -y
 cd SpamPair
 python main.py
+```
+## Information
+### Penginstallan libary cukup lama, harap tunggu saja
